@@ -43,6 +43,7 @@ body{
     "form info"
     "form map";
     grid-gap: 20px;
+    padding-right: 10px;
 }
 .contact h3{
     color: #0e3959;
